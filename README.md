@@ -1,3 +1,8 @@
+Hi, this is a simple map web app which shows the data used by different locations, it has markers in the form of circles. A place which has consumed large amount of data will have larger and darker circle.
+Currently the web app uses a local data.json file but we can use an api to have data with dynamic values.
+It can serve as a traker to visualize a variable quantity at diffrent locations.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
